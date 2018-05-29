@@ -1,0 +1,219 @@
+Cmp-Mod V01 Created by PcbNew   date = 5/29/2018 2:09:03 PM
+
+BeginCmp
+TimeStamp = 5972443D
+Path = /59721259
+Reference = P10;
+ValeurCmp = AC;
+IdModule  = ok1hra:ac-power-plug-fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = 590B6E5A
+Path = /59497A26
+Reference = U1;
+ValeurCmp = LTV-354T_;
+IdModule  = Opto-Devices:Optocoupler_SMD_LTV-817S;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953B2C9
+Path = /5953E8AD
+Reference = P9;
+ValeurCmp = measure;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 594BA027
+Path = /594BB2CA
+Reference = P7;
+ValeurCmp = 24V;
+IdModule  = ok1hra:Pin_1x02-XL;
+EndCmp
+
+BeginCmp
+TimeStamp = 594BA03B
+Path = /59497A1A
+Reference = P8;
+ValeurCmp = AC_FAULT;
+IdModule  = ok1hra:Pin_1x02-XL;
+EndCmp
+
+BeginCmp
+TimeStamp = 590B6E46
+Path = /59497A39
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 590B6E4C
+Path = /590B0C6E
+Reference = R4;
+ValeurCmp = 33k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 594B8046
+Path = /594B9FA9
+Reference = C1;
+ValeurCmp = 330n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 594B8052
+Path = /594B9E2D
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 594B8063
+Path = /594AA10F
+Reference = Q1;
+ValeurCmp = MMBF170LT1G;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 594B806A
+Path = /59498184
+Reference = Q2;
+ValeurCmp = MMBF170LT1G;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 594B8070
+Path = /59499B0D
+Reference = R7;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 594B8076
+Path = /594AA1FD
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 594BC903
+Path = /590AE665
+Reference = R1;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 594BC908
+Path = /591BFFD2
+Reference = R2;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 594BC90D
+Path = /591BFF66
+Reference = R5;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 594BC912
+Path = /591C0051
+Reference = R6;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953B2D5
+Path = /5953DD4F
+Reference = R9;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953B2DB
+Path = /5953DD5B
+Reference = R10;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953B2E1
+Path = /5953DD55
+Reference = R11;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953B2E7
+Path = /5953DD61
+Reference = R12;
+ValeurCmp = 11k;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 596CB1BF
+Path = /5953D011
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 596CB1C4
+Path = /594BB966
+Reference = C5;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 59727759
+Path = /590B26C3
+Reference = P1;
+ValeurCmp = PE;
+IdModule  = ok1hra:faston-hole-m;
+EndCmp
+
+BeginCmp
+TimeStamp = 5972775E
+Path = /590B2629
+Reference = P3;
+ValeurCmp = N;
+IdModule  = ok1hra:faston-hole-m;
+EndCmp
+
+BeginCmp
+TimeStamp = 59727763
+Path = /590B2577
+Reference = P5;
+ValeurCmp = L;
+IdModule  = ok1hra:faston-hole-m;
+EndCmp
+
+BeginCmp
+TimeStamp = 594CC4CD
+Path = /594B8071
+Reference = D1;
+ValeurCmp = D_ALT;
+IdModule  = Diodes_SMD:D_SOD-323;
+EndCmp
+
+EndListe
